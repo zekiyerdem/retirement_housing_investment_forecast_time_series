@@ -1,1 +1,0 @@
-#First we will create a syntetic data for the business problem
