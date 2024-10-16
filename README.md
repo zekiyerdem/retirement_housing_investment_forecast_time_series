@@ -1,7 +1,7 @@
 # 1. Business Problem Definition
 
 ## **Business Objective**
-A retirement house company wants to expand its portfolio by investing in a new property. They need to forecast market trends, such as property prices and occupancy rates, in potential areas to make an informed investment decision.
+The retirement house company is seeking to expand its portfolio by identifying the next best location for investment in senior living facilities. To make an informed decision, they need to forecast market trends, such as property prices, occupancy rates, and demographic shifts, while accounting for factors such as healthcare accessibility, environmental quality, and government incentives. The goal is to identify locations that not only offer promising financial returns but also align with the growing demand for senior living services and specialized care.
 
 ## **Key Questions:**
 
