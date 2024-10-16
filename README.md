@@ -78,3 +78,14 @@ In a senior living area investment, several key features should be taken into ac
 - **Community Satisfaction**: Surveys or reviews that highlight the overall satisfaction of residents in nearby senior living communities.
 
 
+### Interpretation of Population Age 65+ Growth Rate:
+**Higher Growth Rate:**
+
+A higher growth rate indicates that the senior population in that area is increasing quickly. This could signal a rising demand for senior living services and housing in the area, making it a potentially attractive investment location for retirement homes or senior care facilities.
+For instance, if a city shows a 3.5% growth rate in the senior population, this suggests a larger market of potential customers in the coming years, which could lead to higher occupancy rates and increased property demand in senior living facilities.
+Lower Growth Rate:
+
+A lower growth rate (or even negative growth) could indicate that the senior population is growing slowly or possibly declining. This could signal lower future demand for senior living housing in that area, making it a less favorable location for new investments.
+For example, if a city shows a 0.5% growth rate, it may mean that fewer seniors are moving into or aging in that area, resulting in slower demand for senior-specific housing and services.
+
+
